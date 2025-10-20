@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Carly's Practice Environment
+Figure out how to use GitHub to be a solutions consultant
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
