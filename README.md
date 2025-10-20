@@ -2,8 +2,8 @@
 Figure out how to use GitHub to be a solutions consultant
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--{site}--{carly}.aem.page/
+- Live: https://main--{site}--{carly}.aem.live/
 
 ## Documentation
 
